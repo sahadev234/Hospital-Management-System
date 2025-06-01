@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Hospital-Management-System/HospDBMS/src"/>
+	<classpathentry kind="lib" path="Hospital-Management-System/HospDBMS/build/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="Hospital-Management-System/HospDBMS/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="Hospital-Management-System/HospDBMS/WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="output" path="Hospital-Management-System/HospDBMS/build/web/WEB-INF/classes"/>
+</classpath>
